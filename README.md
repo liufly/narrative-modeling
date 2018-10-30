@@ -15,7 +15,7 @@ $ python main.py --embedding_file PATH/TO/GLOVE_EMBEDDING_FILE
 @InProceedings{Liu+:2018,
   author    = "Liu, Fei and Cohn, Trevor and Baldwin, Timothy",
   title     = "Narrative Modeling with Memory Chains and Semantic Supervision",
-  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)",
+  booktitle = "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics",
   year      = "2018",
   pages     = "278--284",
   location  = "Melbourne, Australia"
